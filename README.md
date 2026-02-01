@@ -158,19 +158,31 @@ Register Page → screenshots/register.png
 
 🏠 User Interface
 
-Home Page  → screenshots/home.png
+**Home Page**
 
-Product Details Page → screenshots/productdetails.png
+![Home Page](screenshots/home.png)
+
+
+**product detail Page**
+
+![Product Detail Page](screenshots/productdetail.png)
+
 
 🛒 Cart & Checkout
 
-Cart Page → screenshots/cart.png
+**Cart Page**
 
-Checkout Page → screenshots/checkout.png
+![Cart Page](screenshots/cart.png)
 
-🛠️ Admin Panel
 
-Admin Dashboard → screenshots/admindashboard.png
+**Checkout Page**
+
+![Checkout Page Page](screenshots/checkout.png)
+
+**Admin Panel**
+
+![Admin Panel Page](screenshots/adminpanel.png)
+
 
 ----
 
