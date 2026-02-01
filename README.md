@@ -168,10 +168,6 @@ Cart Page → screenshots/cart.png
 
 Checkout Page → screenshots/checkout.png
 
-📦 Orders
-
-My Orders Page → screenshots/my-orders.png
-
 🛠️ Admin Panel
 
 Admin Dashboard → screenshots/admindashboard.png
