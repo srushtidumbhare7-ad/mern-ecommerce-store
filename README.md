@@ -152,9 +152,13 @@ PUT /api/orders/:id (Admin – update status)
 
 🔐 Authentication
 
-Login Page → screenshots/login.png
+**Login Page**
 
-Register Page → screenshots/register.png
+![Login Page](screenshots/login.png)
+
+**Register Page**
+
+![Register Page](screenshots/register.png)
 
 🏠 User Interface
 
@@ -165,7 +169,7 @@ Register Page → screenshots/register.png
 
 **product detail Page**
 
-![Product Detail Page](screenshots/productdetail.png)
+![Product Detail Page](screenshots/productdetails.png)
 
 
 🛒 Cart & Checkout
@@ -181,7 +185,7 @@ Register Page → screenshots/register.png
 
 **Admin Panel**
 
-![Admin Panel Page](screenshots/adminpanel.png)
+![Admin Panel Page](screenshots/admindashboard.png)
 
 
 ----
